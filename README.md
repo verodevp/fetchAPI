@@ -21,6 +21,14 @@ Technologies used:
 - JavaScript
 - API Fetch
 
+[**Go to the APP**](https://verodevp.github.io/fetchAPI/)
+
+
+
+## License
+
+This project is licensed under the MIT License.
+
 
 
 
