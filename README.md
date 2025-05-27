@@ -1,3 +1,5 @@
+# fetchAPI
+
 This is my project, created after completing the **Advanced JavaScript course**.
 
 The aim of the project is to develop an app that enhances book reading by integrating the external Open Library service: **Open Library API**.
@@ -24,10 +26,8 @@ The user will send a request to the API, for example: https://openlibrary.org/su
 
 -API Fetch
 
-🔗 Go to the app: Click here
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
