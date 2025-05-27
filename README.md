@@ -26,6 +26,11 @@ The user will send a request to the API, for example: https://openlibrary.org/su
 
 - API Fetch
 
+  
+## License
+
+This project is licensed under the MIT License.
+
 
 
 
