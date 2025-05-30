@@ -4,7 +4,7 @@ const search = document.getElementById("search");
 const input = document.getElementById("testo");
 
 search.addEventListener("click", (e) => {
-  let testoDigitato = input.value.trim();
+  let testoDigitato = input.value.trim().toLowerCase();
 
   const apiURL = `https://openlibrary.org/subjects/${testoDigitato}.json`;
 
